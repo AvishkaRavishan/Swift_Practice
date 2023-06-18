@@ -1,0 +1,6 @@
+var schools = Set(["a","b","a","c"])
+print(schools)
+schools.insert("asd")
+print(schools)
+schools.remove("a")
+print(schools)
